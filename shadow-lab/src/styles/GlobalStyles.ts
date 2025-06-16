@@ -10,8 +10,12 @@ export const GlobalStyle = createGlobalStyle`
 
   html, body {
     height: 100%;
-    background-color: #121212;
-    color: #f0f0f0;
+    background-color: #fff;
+    background-image:
+    linear-gradient(to right, rgba(0,0,0,0.1) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0,0,0,0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+    color: #000;
     font-family: 'Inter', sans-serif;
   }
 
