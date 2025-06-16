@@ -52,4 +52,4 @@ npm run dev
 Acesse: http://localhost:5173
 ```
 
-[![GitHub](https://img.shields.io/github/followers/ceciliacaporale?color=ff69b4&label=Me%20siga%20no%20GitHub&logo=github&style=for-the-badge)](https://github.com/cecicaporale)
+[![GitHub](https://img.shields.io/github/followers/ceciliacaporale?color=ff69b4&label=Me%20siga%20no%20GitHub&logo=github&style=for-the-badge)](https://github.com/ceciliacaporale)
